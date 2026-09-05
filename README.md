@@ -1,9 +1,9 @@
 <div align="right">
+  <strong>🇸🇦 العربية</strong> | 
+  <strong><a href="./docs/README_en.md">🇬🇧English</a></strong> | 
+  <strong><a href="./docs/README_zh.md">🇨🇳中文</a></strong> |
   <strong><a href="./docs/README_ko.md">🇰🇷한국어</a></strong> | 
-  <strong><a href="./docs/README_ja.md">🇯🇵日本語</a></strong> | 
-  <strong><a href="./docs/README_zh.md">🇨🇳中文</a></strong> | 
-  <strong>🇬🇧English</strong> |
-  <strong><a href="#arabic">🇸🇦 العربية</a></strong>
+  <strong><a href="./docs/README_ja.md">🇯🇵日本語</a></strong>
 </div>
 
 ---
@@ -13,6 +13,7 @@
 > Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.
 
 ![poc](https://github.com/Lakr233/vphone-cli/blob/main/docs/demo.jpeg?raw=true)
+
 ---
 
 ## 👨‍💻 المطور / Developer
@@ -40,6 +41,18 @@
     </tr>
   </table>
 </div>
+
+---
+
+## 📁 ملفات الترجمة / Translation Files
+
+| اللغة | الملف | الحالة |
+|-------|-------|--------|
+| 🇸🇦 العربية | [README.md](./README.md) | ✅ جاهز |
+| 🇬🇧 English | [README_en.md](./docs/README_en.md) | ✅ جاهز |
+| 🇨🇳 中文 | [README_zh.md](./docs/README_zh.md) | ✅ جاهز |
+| 🇰🇷 한국어 | [README_ko.md](./docs/README_ko.md) | ✅ جاهز |
+| 🇯🇵 日本語 | [README_ja.md](./docs/README_ja.md) | ✅ جاهز |
 
 ---
 
@@ -355,6 +368,24 @@ vphone-amfidont         # .build/vphone-cli.app/Contents/Resources/vphone-amfido
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
+
+---
+
+## 📁 هيكل المجلدات / Folder Structure
+
+```
+vphone-cli/
+├── README.md (العربية)
+├── docs/
+│   ├── README_en.md (English)
+│   ├── README_zh.md (中文)
+│   ├── README_ko.md (한국어)
+│   ├── README_ja.md (日本語)
+│   └── demo.jpeg
+├── scripts/
+├── research/
+└── src/
+```
 
 ---
 
