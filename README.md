@@ -1,4 +1,4 @@
-<img width="1210" height="1130" alt="image" src="https://github.com/user-attachments/assets/2ea30efe-e593-4e40-9dc3-2fdf78142757" /><div align="right">
+<div align="right">
   <strong><a href="./docs/README_ko.md">🇰🇷한국어</a></strong> | 
   <strong><a href="./docs/README_ja.md">🇯🇵日本語</a></strong> | 
   <strong><a href="./docs/README_zh.md">🇨🇳中文</a></strong> | 
